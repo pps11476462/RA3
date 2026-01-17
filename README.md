@@ -1,8 +1,7 @@
 <div align="center">
 
-<img src="assets/logo_generalitat.png" alt="Generalitat Valenciana" height="50">
 <img src="assets/logo_ies.png" alt="IES El Caminás" height="50">
-<img src="assets/logo_ue.png" alt="Unión Europea" height="50">
+
 
 <br/><br/>
 
