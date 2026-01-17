@@ -23,11 +23,6 @@
 
 1. [Resumen](#-resumen)
 2. [Objetivos](#-objetivos)
-3. [Histórico de Modificaciones](#-histórico-de-modificaciones)
-4. [Desarrollo](#-desarrollo)
-    - [Capítulo 1](#capítulo-1)
-5. [Conclusión](#-conclusión)
-6. [Bibliografía](#-bibliografía)
 
 ---
 
@@ -47,8 +42,7 @@ La función de implantación de un sistema de despliegue seguro incluye aspectos
 
 El objetivo principal de este Resultado de Aprendizaje 3 es:
 
-* **Objetivo 1:** [Seguridad Web] 
- [En esta parte del módulo aprenderemos cómo desarrollar webs de forma segura y a detectar y corregir vulnerabilidades web ]
+* **Objetivo: Seguridad Web.** En esta parte del módulo aprenderemos cómo desarrollar webs de forma segura y a detectar y corregir vulnerabilidades web
 
 ---
 
